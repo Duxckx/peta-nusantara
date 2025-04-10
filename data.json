@@ -1,0 +1,22 @@
+[
+  {
+    "daerah": "Bali",
+    "koordinat": [-8.3405, 115.0920],
+    "judul": "Legenda Barong",
+    "cerita": "Dulu di Bali, ada makhluk penjaga bernama Barong yang melindungi desa dari kejahatan.",
+    "kosakata": [
+      {"kata": "Tiang", "arti": "Saya"},
+      {"kata": "Suksma", "arti": "Terima kasih"}
+    ]
+  },
+  {
+    "daerah": "Papua",
+    "koordinat": [-4.2699, 138.0804],
+    "judul": "Burung Cenderawasih dan Anak Sungai",
+    "cerita": "Burung Cenderawasih menjaga sungai dari pencemar. Ia bersahabat dengan seorang anak bernama Noke.",
+    "kosakata": [
+      {"kata": "Noken", "arti": "Tas rajut"},
+      {"kata": "Epe", "arti": "Air"}
+    ]
+  }
+]
